@@ -1,3 +1,1 @@
-I have modified this on my Portal so when i pull i should get this commit
-
-Now i will add these line and push it to the Portal repo
+I have deleted all the lines from the Portal
